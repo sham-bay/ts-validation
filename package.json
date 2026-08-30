@@ -1,6 +1,6 @@
 {
 	"name": "@shambay/validation",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "Unified validation abstraction layer with pluggable adapters (Zod, Yup, Joi, etc.)",
 	"repository": {
 		"type": "git",
